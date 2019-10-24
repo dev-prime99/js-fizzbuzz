@@ -26,3 +26,15 @@ ul{
 li{
   color: #ffffff;
 }
+
+.red{
+  color: red;
+}
+
+.green{
+  color: green;
+}
+
+.yellow{
+  color: rgb(217, 182, 57);
+}
